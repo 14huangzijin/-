@@ -22,6 +22,8 @@ If possible, please find a piece of rope now—a stiff, elastic one, like a wire
 Bending is energy.
 
 Hold the two ends of the rope with your left and right hands. Keep your left hand fixed, and use your right hand to start twisting in one direction, applying a rotational force. Twist it like you are twisting a pretzel. If your rope is stiff and elastic enough, the moment you complete a full 360-degree twist, something magical happens: a perfect loop will spontaneously pop out on the rope.
+<img width="1269" height="557" alt="单环电子结构" src="https://github.com/user-attachments/assets/50060c8a-208b-43fd-82bd-f8d486bfbde8" />
+
 
 (The picture: A topological soliton. It looks remarkably simple.)
 
@@ -84,6 +86,8 @@ Now, let us look at how this material loop is born on an infinitely long string 
 Imagine a powerful twist-force suddenly striking one point on an infinitely long string.
 
 This force does not stay at that point; it is conducted simultaneously toward both ends of the string. If the twist-force is fast and strong enough, two topological solitons will be born almost simultaneously on the left and right ends of the string.
+
+<img width="554" height="307" alt="image" src="https://github.com/user-attachments/assets/6df7c811-8577-476d-b199-fc88db281aee" />
 
 (The picture: Symmetrically bulging matter and antimatter loops)
 
